@@ -49,7 +49,7 @@ The grid is 8×10 with:
 ```bash
 git clone https://github.com/yourusername/ai-pathfinder.git
 cd ai-pathfinder
-
+```
 # Install required packages
 pip install matplotlib numpy ipython
 
